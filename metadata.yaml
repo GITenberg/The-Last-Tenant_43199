@@ -1,0 +1,31 @@
+_repo: The-Last-Tenant_43199
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43199-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Farjeon, B. L. (Benjamin Leopold)
+    alias: Farjeon, Benjamin Leopold
+    birthdate: 1833
+    deathdate: 1903
+    gutenberg_agent_id: '41959'
+    url: http://www.gutenberg.org/2009/agents/41959
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
+description: When his wife makes up her mind they need to move, Edward finds himself
+  fascinated by a house that appears to be haunted by its last tenant - a young woman
+  who may have been murdered.
+gutenberg_issued: '2013-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Haunted houses -- Fiction'
+title: The Last Tenant
+url: http://www.gutenberg.org/ebooks/43199
